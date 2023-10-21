@@ -2,7 +2,7 @@ import streamlit as st
 from pages import Pages
 
 list_of_pages = [
-    "The Project",
+    "The Project Idea",
     "Big News for Zack!",
     "Look back, Zack!",
     "Zack's Musical Numbers",
