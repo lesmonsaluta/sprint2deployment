@@ -18,7 +18,7 @@ st.sidebar.markdown('by Group Mic :microphone: | DSFC10')
 st.sidebar.image("sidebarpic.jpg")
 selection = st.sidebar.radio("Go to: ", list_of_pages)
 
-if selection == "The Project":
+if selection == "The Project Idea":
     Pages.introduction()
 
 elif selection == "Big News for Zack!":
